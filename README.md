@@ -45,7 +45,6 @@ To get a local copy up and running follow these simple example steps.
 
 - GitHub: [@abdessalem1998](https://github.com/abdessalem1998)
 - Twitter: [@dib](https://twitter.com/HAbdssalem)
--
 
 ## 🤝 Contributing
 
