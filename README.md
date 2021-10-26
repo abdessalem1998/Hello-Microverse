@@ -6,7 +6,7 @@
 
 ![index](https://user-images.githubusercontent.com/89970442/138847915-c5f57561-ecd3-4c16-981a-372f8a07da80.PNG)
 
-Simple html page with sytle.
+Simple html page with sytle with the aim  to get started with the environment of github and how to write commits and its description, also how to open a pull request to check the work before merging the updated files to the main branch.
 
 ## Built With
 
